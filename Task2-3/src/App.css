@@ -1,0 +1,19 @@
+.container {
+    width: 350px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    margin: 15px auto ;
+    padding: 15px;
+    border: 2px solid black;
+    border-radius: 5px
+  }
+.contentContainer{
+    text-align: center;
+  }
+img {
+    width: 320px;
+    height: 290px;
+    border-radius: 5px;
+      
+  }
